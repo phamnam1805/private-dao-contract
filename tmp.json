@@ -1,0 +1,139 @@
+[
+    [
+        1,
+        [
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x023f2a8c2914442e5c3838176f64310e9db64fe533ba9e6f4d8e3f58647cd96e"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x20086364d1432c5bfd169a3c13d7ac4a0b94f039c841632211b1cf2c1ce28f36"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x0aad3f891d49c471bfc54b5145708ba14440c3f9707ad7bf017df8b65c7f400d"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2702e82995cce4f6447b86b2cb5bcf98ef5a68bf802ccea2dd30d53b902d68c2"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x222ac22284ea8d68ac5389046f537d7b34be7df58c3b03a6e76b74a18d015df3"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x1cc5a4b9009fb2ce645ac3a680d30321ceca3ff343ddb4415b5575b5823ad4dd"
+                }
+            ]
+        ]
+    ],
+    [
+        2,
+        [
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x666ecd66acd103f123a59c12e3ed2b03ed8aa31c2675f4f0b5d9dc7c94160b"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x03d3fbdb0d6d42e7a134c6224c0fdbbd3e3c6777c2aac7e03061028b48c0f92b"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2e6069147f389104680c663639dbb9c184293b8a1a84ce556dfb1c52127b04a5"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x0c28202b796c049ec1eb2e47733590279d87ae6b83b6af8efdc318b11de0c4a1"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x0113e7a5210ce539e7899327aab36c6934723cd38bcbd235c6f34a751e95a09c"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x01c79870987f35a06c3e0a88deff05a1a5a4d9fd2e0a90ec6a360ebef44521c0"
+                }
+            ]
+        ]
+    ],
+    [
+        3,
+        [
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x039d80414ee4bc4d539f0d70f4ddda0247a1d21dd2c72cb6da38ea61f60fdb35"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x1efac0a8652d3adeeeac53b3dc99b31b49bb7389cfbf2703dbbf9c133ea56315"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x20753a094c4da74d52eafebc86c4df347bfad1df148e0aa6bcde693fdf27ffc2"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2343ae100ca72f4d86bc1f36f3e31e54d119c9d9b874b60cf8d2bf144e0398af"
+                }
+            ],
+            [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2c9b580fe3c9c5f6d5af76010acb5bed86518007a44cbfd117407c20488b5a1e"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x05f12d6b1a37a4e3c5e44e972373a4388ee337ae60315758cf6acd26b7d86580"
+                }
+            ]
+        ]
+    ]
+]
+[
+    [
+        {
+            "type": "BigNumber",
+            "hex": "0x1bbcd9f325a4a9205639a47321cbf447b0ec27c95e7264b66d58ad7f56530329"
+        },
+        {
+            "type": "BigNumber",
+            "hex": "0x15d937ecf3ade8b2b1e90d24caec90bee56f50110ca32641c77cb57f73cfd9bb"
+        }
+    ],
+    [
+        {
+            "type": "BigNumber",
+            "hex": "0x0b95f9e2da29e4fd5094fe45f8050ceaaa5d5348d26054bd80d278bf8264ff9d"
+        },
+        {
+            "type": "BigNumber",
+            "hex": "0x2713566976d746b95a99407c377a7297389f4db96d151e75ee5c2ea530b0f26a"
+        }
+    ],
+    [
+        {
+            "type": "BigNumber",
+            "hex": "0x049642e21e0768154bbe2e11ff51a3c785c39339ff324f16fd75dfc86e68ecdc"
+        },
+        {
+            "type": "BigNumber",
+            "hex": "0x2cba6d77a5a998884c5b4578b9a65460df5ed8a4afcfc50642af1fcaf136f41f"
+        }
+    ]
+]
